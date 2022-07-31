@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.utilcls {
+  /* height: 35px; */
+  border: 3px solid green;
+  background-color: rgb(214, 218, 221);
+}
+.btnfooter {
+  float: right;
+  margin-top: -2.4rem;
+  margin-right: 15px;
+  background-color: blue;
+  color: white;
+  height: 29px;
+}
+.flt-left {
+  float: left;
+}
+
+.container1 {
+  border: 1px solid red;
+}
+
+.table1 .stsbutton1 {
+  background: red;
+  color: white;
+  width: 96px;
+  outline: none;
+  border: none;
+  border-radius: 25px;
+}
+.table1 .stsbutton2 {
+  background: rgb(28, 51, 119);
+  color: white;
+  width: 96px;
+  outline: none;
+  border: none;
+  border-radius: 25px;
+}
+.table1 .stsbutton3 {
+  background: rgb(141, 57, 57);
+  color: white;
+  width: 96px;
+  outline: none;
+  border: none;
+  border-radius: 25px;
+}
+.table1 .stsbutton4 {
+  background: rgb(9, 215, 40);
+  color: white;
+  width: 96px;
+  outline: none;
+  border: none;
+  border-radius: 25px;
+}
+
+.hfbtn {
+  background: blue;
+  outline: none;
+  color: white;
+  border-radius: 8px;
+  margin: 0;
+}
+
+.table1container{
+    width: 800px;
+    height: 200px;
+    background-color: aliceblue;
+
+    margin: 100px;
+
+    
+}
+.freport{
+    margin-top: 150px;
+    border: 2px solid red;
+    width: 1200px;
+    height: 300px;
+    background-color: rgb(221, 224, 226);
+}
+
+.cls1{
+    
+    float: left;
+    width: 224px;
+    height: 150px;
+    background: green;
+}
+.cls2{
+    float: left;
+    width: 224px;
+    height: 150px;
+    background: green;
+}
+.cls3{
+    float: left;
+    width: 224px;
+    height: 150px;
+    background: green;
+}
+
+.btnprimary{
+    width: 227px;
+    height: 36px;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+}
+
+.footer{
+    border: 2px solid red;
+    background: #9c9c95;
+    color: white;
+    height: 49px;
+    align-items: center;
+    margin-bottom: 5px;
+}
